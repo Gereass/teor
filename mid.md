@@ -429,3 +429,5 @@ let_it_fly(Bird())
    git add <file>
    git commit -m "Resolved merge conflict"
 4. Завершаю слияние: `git push`.
+
+#### [Некст левл плей](sen.md)
